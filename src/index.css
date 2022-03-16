@@ -4,8 +4,13 @@ body {
   font-family: "Courier New", courier, monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: rgb(255,255,60);
-  background: linear-gradient(90deg, rgba(219, 216, 50, 0.664) 36%, rgba(255,0,5,0.8155637254901961) 100%);
+  /* background: rgb(255,255,60); */
+  background: linear-gradient(90deg, #a0b5eb 15%, #c9f0e4 100%);
+  /* background: linear-gradient(
+    90deg,
+    rgba(219, 216, 50, 0.664) 36%,
+    rgba(255, 0, 5, 0.8155637254901961) 100%
+  ); */
 }
 
 button {
